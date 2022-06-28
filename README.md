@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/newjoker6/newjoker6/Master/GitBanner.png)
 # 💫 About Me:
-I am a developer with a language preference of GDScript followed by Python. I have acted behind the scenes to consult people on their project's code and how to impliment specific features. I also teach people how to code and use the GDScript language as well as written books on it.<br>
+I am a *developer* with a language preference of *GDScript* followed by *Python*. I have acted behind the scenes to *consult* people on their project's code and how to impliment specific features. I also *teach* people how to code and use the GDScript language as well as *written books* on it.<br>
 
 
 ## 🌐 Socials:
